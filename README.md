@@ -69,8 +69,6 @@ Final Intelligent Response
 ├── agent.py              # Main agent logic
 ├── tools.py              # Tool integrations via MCP
 ├── __init__.py
-├── Dockerfile            # Container setup
-├── requirements.txt
 └── README.md
 ```
 
