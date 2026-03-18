@@ -142,13 +142,6 @@ Where should I open a bakery?
 
 ---
 
-## 💡 Author
-
-**Shubhangi Sharan**
-BSc Computer Science (H)
-
----
-
 ## 📌 Final Thought
 
 > This project showcases how modern AI systems are evolving from simple chatbots to **intelligent agents that interact with real-world systems securely and efficiently**.
