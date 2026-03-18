@@ -1,7 +1,11 @@
 # Google-Labcode-1
 # 🧠 Location Intelligence AI Agent (MCP + ADK)
 
-An intelligent AI agent built using **Google Agent Development Kit (ADK)** and powered by **Gemini**, capable of analyzing business data and real-world location context using the **Model Context Protocol (MCP)**.
+A Location intelligent ADK Agent with MCP servers for BigQuery and Google Maps built using **Google Agent Development Kit (ADK)** and powered by **Gemini 3.1 Pro**, capable of analyzing business data and real-world location context using the **Model Context Protocol (MCP)**.
+
+The agent will be equipped with tools from two remote (Google-hosted) MCP servers to securely access BigQuery for demographic, pricing, and sales data, and Google Maps for real-world location analysis and validation.
+
+The agent orchestrates requests between the user and Google Cloud services to solve business problems related to the fictitious bakery dataset.
 
 ---
 
