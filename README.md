@@ -36,7 +36,7 @@ Data Processing
    ↓
 Final Intelligent Response
 ```
-
+![Architecture flow](assets/screenshot.png)
 ---
 
 ## 🔑 Key Features
