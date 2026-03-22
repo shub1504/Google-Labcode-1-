@@ -6,6 +6,17 @@
 
 This directory contains the data artifacts and infrastructure setup scripts for the **MCP support for BigQuery & Google Maps** demo.  
 
+# Google-Labcode-1
+# 🧠 Location Intelligence AI Agent (MCP + ADK)
+
+A Location intelligent ADK Agent with MCP servers for BigQuery and Google Maps built using **Google Agent Development Kit (ADK)** and powered by **Gemini 3.1 Pro**, capable of analyzing business data and real-world location context using the **Model Context Protocol (MCP)**.
+
+The agent will be equipped with tools from two remote (Google-hosted) MCP servers to securely access BigQuery for demographic, pricing, and sales data, and Google Maps for real-world location analysis and validation.
+
+The agent orchestrates requests between the user and Google Cloud services to solve business problems related to the fictitious bakery dataset.
+
+---
+
 ## Demo Overview
 
 This scenario demonstrates an AI Agent's ability to orchestrate enterprise data (BigQuery) and real-world geospatial context (Google Maps) to solve a complex business problem: 
@@ -18,9 +29,9 @@ The agent autonomously queries BigQuery to find macro trends and uses Google Map
 2.  **Market Data:** To analyze competitor pricing and suggest a premium price point (Pricing Strategy).
 3.  **Sales History:** To forecast potential revenue based on comparable store trends (Forecasting).
 
-### Architecture Diagram
-
-![Architecture Diagram](architecture_diagram.png)
+```
+![Architecture flow](assets/image.png)
+```
 
 The diagram above illustrates the flow of information in this demo. The Agent, powered by Gemini 3 Pro Preview, orchestrates requests between the user and Google Cloud services. It uses a remote (Google hosted) MCP server to securely access BigQuery for demographic and sales data, and Google Maps APIs for real-world location analysis and validation.
 
