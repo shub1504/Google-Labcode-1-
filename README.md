@@ -29,9 +29,9 @@ The agent autonomously queries BigQuery to find macro trends and uses Google Map
 2.  **Market Data:** To analyze competitor pricing and suggest a premium price point (Pricing Strategy).
 3.  **Sales History:** To forecast potential revenue based on comparable store trends (Forecasting).
 
-```
+
 ![Architecture flow](assets/image.png)
-```
+
 
 The diagram above illustrates the flow of information in this demo. The Agent, powered by Gemini 3 Pro Preview, orchestrates requests between the user and Google Cloud services. It uses a remote (Google hosted) MCP server to securely access BigQuery for demographic and sales data, and Google Maps APIs for real-world location analysis and validation.
 
