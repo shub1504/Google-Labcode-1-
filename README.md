@@ -108,44 +108,6 @@ Where should I open a bakery?
 
 ---
 
-## 🎯 Learning Outcomes
-
-* Built an AI agent using ADK
-* Integrated external tools using MCP
-* Understood separation of reasoning and execution
-* Worked with real-world data sources
-* Deployed cloud-based AI systems
-
----
-
-## ⚠️ Notes
-
-* This project is part of a hands-on codelab
-* Focus is on **data-to-agent integration**, not complex workflows
-
----
-
-## 🙌 Acknowledgements
-
-* Google Cloud Codelabs
-* Model Context Protocol (MCP)
-* Gemini & ADK ecosystem
-
----
-
-## ⭐ Future Improvements
-
-* Add more MCP tools (e.g., analytics APIs)
-* Build a frontend dashboard
-* Enhance reasoning with multi-agent workflows
-* Deploy fully on Cloud Run
-
----
-
-## 📌 Final Thought
-
-> This project showcases how modern AI systems are evolving from simple chatbots to **intelligent agents that interact with real-world systems securely and efficiently**.
-
 
 # `google/mcp`
 
@@ -222,3 +184,28 @@ This project is licensed under the Apache 2.0 License \- see the [LICENSE](https
 This is not an officially supported Google product. This project is intended for demonstration purposes only.
 
 This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security). 
+
+
+## 🎯 Learning Outcomes
+
+* Built an AI agent using ADK
+* Integrated external tools using MCP
+* Understood separation of reasoning and execution
+* Worked with real-world data sources
+* Deployed cloud-based AI systems
+
+---
+
+## ⚠️ Notes
+
+* This project is part of a hands-on codelab
+* Focus is on **data-to-agent integration**, not complex workflows
+
+---
+
+## 🙌 Acknowledgements
+
+* Google Cloud Codelabs
+* Model Context Protocol (MCP)
+* Gemini & ADK ecosystem
+
